@@ -1,0 +1,10 @@
+{
+  "showLineNumber": false,
+  "spellcheck": false,
+  "vimMode": true,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true,
+  "promptDelete": false
+}
