@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7f72a4cf486c5169",
+        "id": "61b37f5a93177269",
         "type": "tabs",
         "children": [
           {
-            "id": "32574d5e3cb13e8e",
+            "id": "33a0b6daefa6b7cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "locker.md",
+                "file": "Week -  0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "locker"
+              "title": "Week -  0"
             }
           }
         ]
@@ -173,8 +173,15 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "32574d5e3cb13e8e",
+  "active": "33a0b6daefa6b7cf",
   "lastOpenFiles": [
-    "locker.md"
+    "Computer science.md",
+    "CS50.md",
+    "Representation of data in computers.md",
+    "Week -  0.md",
+    "First steps.md",
+    "locker.md",
+    "templates/notes.md",
+    "templates"
   ]
 }
