@@ -6,7 +6,7 @@ Date: 2025-10-26
 ---
 ---
 
-**Computer Science** is the study of how computers work, how they process information, and how we can use them to solve problems. It’s not just about coding — it's about **logic, creativity, and problem-solving**.
+**Computer Science** is the study of how **computers work**, how they process information, and how we can use them to solve problems. It’s not just about coding — it's about **logic, creativity, and problem-solving**.
 
 Here’s a simple way to think about it:
 
