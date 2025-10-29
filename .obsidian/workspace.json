@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "61b37f5a93177269",
+        "id": "5cbf31e1c483c0cd",
         "type": "tabs",
         "children": [
           {
-            "id": "33a0b6daefa6b7cf",
+            "id": "0becf136639baf44",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LLM.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "LLM"
-            }
-          },
-          {
-            "id": "a1ab12c76faad3a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Conditionals.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Conditionals"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,11 +169,14 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "a1ab12c76faad3a2",
+  "active": "0becf136639baf44",
   "lastOpenFiles": [
+    "Hello World.md",
+    "Week-1.md",
+    "Sourcecode.md",
     "LLM.md",
-    "Week -  0.md",
     "Conditionals.md",
+    "Week -  0.md",
     "Rubber Duck Debugging.md",
     "Abstraction.md",
     "AI.md",
