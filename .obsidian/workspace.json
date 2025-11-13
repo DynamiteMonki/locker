@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5cbf31e1c483c0cd",
+        "id": "c79431f14ed52606",
         "type": "tabs",
         "children": [
           {
-            "id": "0becf136639baf44",
+            "id": "467d3529a5f852f5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Week 1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Week 1"
             }
           }
         ]
@@ -169,25 +173,34 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "0becf136639baf44",
+  "active": "467d3529a5f852f5",
   "lastOpenFiles": [
+    "Code may compile but would it work as intended ?.md",
+    "Week 1.md",
+    "Variable.md",
+    "daily",
+    "Function.md",
+    "Escape Sequence.md",
+    "Format Specifier.md",
+    "CS50.md",
+    "Untitled 1.md",
+    "Exit Code.md",
+    "Data Types.md",
     "Hello World.md",
-    "Week-1.md",
+    "Manual Pages.md",
+    "Header file.md",
     "Sourcecode.md",
-    "LLM.md",
-    "Conditionals.md",
     "Week -  0.md",
     "Rubber Duck Debugging.md",
+    "Algorithms.md",
+    "Week-1.md",
+    "2025-10-31.md",
+    "LLM.md",
+    "Conditionals.md",
     "Abstraction.md",
     "AI.md",
     "Pseudocode.md",
-    "Algorithms.md",
     "Representation of data in computers.md",
-    "Computer science.md",
-    "CS50.md",
-    "First steps.md",
-    "locker.md",
-    "templates/notes.md",
     "templates"
   ]
 }

@@ -1,10 +1,12 @@
 ---
+id: Week -  0
+aliases: []
 tags:
   - cs
   - basics
   - cs50
+Date: "2025-10-23"
 from: CS50X - HarvardX
-Date: 2025-10-23
 ---
 ---
 
@@ -22,4 +24,3 @@ Computer Science is [[Computer science]]
 - [[Abstraction]]
 - [[Conditionals]]
 - [[Rubber Duck Debugging]]
-

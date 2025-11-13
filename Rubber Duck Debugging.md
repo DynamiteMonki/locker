@@ -35,7 +35,6 @@ Date: 2025-10-27
 
 ## Example scenario:
 
-text
 
 ```
 You: "OK duck, this loop should sum all the numbers..."
